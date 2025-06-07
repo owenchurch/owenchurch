@@ -1,3 +1,3 @@
 - @owenchurch
-- interested in fullstack development
+- learning backend development
 - 17
