@@ -1,3 +1,3 @@
 - @owenchurch
-- learning backend development
+- building a sudoku app (moodoku.com)
 - 18
